@@ -5,6 +5,4 @@
 ```chmod +x deploy.sh```
 
 ### 実行
-```./deploy.sh```
-
-### 
+```./deploy.sh <message>```
