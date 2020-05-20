@@ -5,5 +5,5 @@ if [ $1 ]; then
     git commit -m $1
     git push origin HEAD
 else
-    echo "'./deploy <message>' please commit message ~ ~ ~ ~ ~ !"
+    echo "'./deploy.sh <message>' please commit message ~ ~ ~ ~ ~ !"
 fi
