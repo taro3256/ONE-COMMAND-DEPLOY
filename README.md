@@ -1,5 +1,10 @@
 # ONE-COMMAND-DEPLOY
 
 ## 実行方法
-```chmod 755 deploy.sh```
+### 実行権限付与
+```chmod +x deploy.sh```
+
+### 実行
 ```./deploy.sh```
+
+### 
